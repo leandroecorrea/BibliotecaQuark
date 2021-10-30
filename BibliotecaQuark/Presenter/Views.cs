@@ -1,0 +1,1 @@
+﻿public enum Views { NewMember, NewBook, NewLoan, LoanList, ReturnBook, CopiesList}
